@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate GitHub Profile 3D Contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
