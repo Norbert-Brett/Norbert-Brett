@@ -13,7 +13,7 @@
 
 ---
 
-##  Hey there! I'm Br3tt 👋 
+## Hey there! I'm Br3tt 👋
 
 I'm a full-stack developer who loves turning ideas into reality through code. Whether it's crafting beautiful user interfaces or building robust backend systems, I'm all about creating applications that people actually enjoy using.
 
@@ -21,16 +21,17 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ```javascript
 const norbert = {
-    code: ["JavaScript", "Python", "Java", "Go"],
-    technologies: {
-        frontEnd: [ "Vue","Svelte", "React", "TailwindCSS"],
-        backEnd: ["Django", "Node.js", "Express"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        devOps: ["Docker", "AWS", "CI/CD"],
-        tools: ["Git", "Figma", "Postman"]
-    },
-    currentFocus: "Building scalable modern web applications & contributing to open source projects",
-    funFact: "I debug with console.log and I'm not ashamed"
+  code: ["JavaScript", "Python", "Java", "Go"],
+  technologies: {
+    frontEnd: ["Vue", "Svelte", "React", "TailwindCSS"],
+    backEnd: ["Django", "Node.js", "Express"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    devOps: ["Docker", "AWS", "CI/CD"],
+    tools: ["Git", "Figma", "Postman"],
+  },
+  currentFocus:
+    "Building scalable modern web applications & contributing to open source projects",
+  funFact: "I debug with console.log and I'm not ashamed",
 };
 ```
 
@@ -71,32 +72,13 @@ const norbert = {
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Norbert-Brett&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Norbert-Brett&theme=algolia&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbert-Brett&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Norbert-Brett&theme=algolia&utcOffset=8" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Norbert-Brett&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-
-
 ## 💭 Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Random Dev Quote"/>
 </div>
 
-## �  Let's Connect!
+## � Let's Connect!
 
 I'm always excited to meet fellow developers, discuss new projects, or just chat about tech over virtual coffee! Whether you have a question, want to collaborate, or just want to say hi, don't hesitate to reach out.
 
@@ -113,5 +95,9 @@ I'm always excited to meet fellow developers, discuss new projects, or just chat
 **"First, solve the problem. Then, write the code."** – John Johnson
 
 ⭐️ From [Norbert-Brett](https://github.com/Norbert-Brett) with ❤️
+
+<a href="https://www.buymeacoffee.com/Brettn">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a book" style="height:60px;">
+</a>
 
 </div>
